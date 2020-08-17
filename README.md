@@ -6,8 +6,14 @@
 
 ## Structure 
 
-00 - Infrastructure
+00 - Releases 
+   * [Main Releases](https://github.com/freight-trust/releases)
+   
+   * [hub.docker.com](https://hub.docker.com/freightnetwork)
+   
+   * [quay.io](https://quay.io/organization/freight)
 
+---
 
 0 - Layer
   * [TDocs](https://github.com/freight-trust/tdocs)
@@ -36,9 +42,14 @@
 6 - Finance
   * [credit-risk](https://github.com/freight-trust/credit-risk)
   
+## Engineering & Operations
 
 
 
+- [config]
+- [devmrc]
+- [terraform]
+- [keptn]
 
 
 ## Informative Links
