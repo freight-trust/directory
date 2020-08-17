@@ -16,6 +16,17 @@
 ---
 
 0 - Layer
+  * [Hyperledger Besu Node Configuration](https://github.com/freight-trust/node)
+  
+  * [Hyperledger Besu Redis Node client](https://github.com/freight-chain/besu-storage-redis/)
+    > Hyperledger Besu client with Redis Configuration for modular node types 
+    
+  * [Freight Trust Network](https://github.com/freight-chain/network)
+    > Hyperledger Besu Permissioned Network with optimizations for EDI/MQ 
+    
+  * [Maidenlane](https://gitlab.com/maidenlane)
+    > AS2/AS4/MFT MQ Server/Client with MDN/RPC
+    
   * [TDocs](https://github.com/freight-trust/tdocs)
     > Open Source TradeDocument format `.tdoc` Ment for Generating straight from EDI/XML
 
@@ -43,8 +54,6 @@
   * [credit-risk](https://github.com/freight-trust/credit-risk)
   
 ## Engineering & Operations
-
-
 
 - [config]
 - [devmrc]
