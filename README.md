@@ -43,6 +43,8 @@
       > XML/EDI Schemas
   * [Trade Documents Form Generator](https://github.com/freight-trust/tradedocs-formgen/tree/electron-pdf2)
       > Generate Physical Documents 
+  * [Handlebar Transactional Library](https://github.com/freight-trust/hbtxs)
+      > Transactional Handlebar Templates, e.g. Create Invoices based off of transactional event/emits
   
 3 - Compliance
   * [TradeSure](https://github.com/freight-trust/tradesure)
