@@ -1,5 +1,13 @@
 # Directory
 
+
+- EDI API Translation and Validaiton Service 
+   * [@freight-trust/open-edi](https://github.com/freight-trust/open-edi)
+
+
+
+
+/************************************************************************************\
 > WIP for ORG/REPO Structure 
 
 *Note*: Does NOT include GitLab maintained Repos *yet*
